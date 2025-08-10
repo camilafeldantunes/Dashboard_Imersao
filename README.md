@@ -41,7 +41,7 @@ Este projeto é um dashboard interativo desenvolvido com **Streamlit** para aná
 
 1. Clone este repositório:
 
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/camilafeldantunes/Dashboard_Imersao.git)
+   git clone https://github.com/camilafeldantunes/Dashboard_Imersao.git
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
 
