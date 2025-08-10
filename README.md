@@ -40,21 +40,26 @@ Este projeto é um dashboard interativo desenvolvido com **Streamlit** para aná
 ## Como executar o projeto
 
 1. Clone este repositório:
-
+    ```
    git clone https://github.com/camilafeldantunes/Dashboard_Imersao.git
+    ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
-
+    ```
     python -m venv .venv
+   
     .\.venv\Scripts\activate
+    ```
 
-3. Instale as dependências:
-
+4. Instale as dependências:
+    ```
     pip install -r requirements.txt
+    ```
 
-4. Execute o dashboard:
-
+5. Execute o dashboard:
+    ```
     streamlit run nome_do_arquivo.py
+    ```
 
 
 
