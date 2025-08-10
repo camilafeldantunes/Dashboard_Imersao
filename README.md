@@ -58,7 +58,7 @@ Este projeto é um dashboard interativo desenvolvido com **Streamlit** para aná
 
 5. Execute o dashboard:
     ```
-    streamlit run nome_do_arquivo.py
+    streamlit run app.py
     ```
 
 
